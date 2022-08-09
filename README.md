@@ -3,3 +3,6 @@
 
 # Douglas-peucker
 DP算法的非递归实现
+
+# Visvalingam-whyatt
+VM算法实现，思路、实现过程见文件。
